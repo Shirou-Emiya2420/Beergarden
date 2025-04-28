@@ -47,7 +47,7 @@ Un site moderne inspiré de l’univers des bars traditionnels, entièrement res
 
 ## 📷 Aperçu
 
-![Screenshot](/img/h5-revolution-img-1.jpg)
+![Screenshot](image.png)
 
 > *Le site est entièrement adapté à tous les écrans.*
 
